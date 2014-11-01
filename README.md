@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 2Cubed's website.
@@ -20,3 +21,5 @@
 
 2Cubed's website.
 >>>>>>> d3c80a800893ff3aa23bc2c4c8e0d55e23b68cf7
+=======
+>>>>>>> 8b870ee464108a65ae9460411fc5b1afcd77d6a6
